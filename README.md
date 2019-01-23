@@ -8,11 +8,11 @@
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-She is very beautiful</div>
+She is very beautiful.</div>
 <div class="separator" style="clear: both; text-align: center;">
 Sweeter than sugar</div>
 <div class="separator" style="clear: both; text-align: center;">
-but, she is weaker than lotus</div>
+but, she is weaker than lotus.</div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
