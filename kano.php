@@ -52,7 +52,7 @@
 			background:black;
 			border-bottom:1px solid #ffffff;
 			border-top:1px solid #ffffff;
-	
+
 		}
 		.tombolupil{
 			background:black;
